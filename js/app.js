@@ -1,5 +1,5 @@
 //Problem: User interaction doesn't provide desired results.
-//Solution: Add interactivity so the user can manage daily tasks.
+//Solution: Add interactivity so the user can manage daily tasks. 
 
 var taskInput = document.getElementById('new-task'); //#new-task
 var addButton = document.getElementsByTagName('button')[0]; //first button
